@@ -1,7 +1,7 @@
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import Home from './pages/home/Home.jsx'
-import { Quiz } from './pages/Quiz/Quiz.jsx'
+import { Quiz } from './pages/quiz/Quiz.jsx'
 import { NotFound } from './pages/not-found/NotFound.jsx'
 import { Heart } from './pages/heart/Heart.jsx'
 import { HighBloodPressure } from './pages/heart/high-blood-pressure/HighBloodPressure.jsx'
